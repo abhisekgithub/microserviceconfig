@@ -1,6 +1,6 @@
 build:
   version: "1.21"
-accounts:
+cards:
   message: "Hi Hello world cards qa"
   contacts:
     name: "Dev dEV"
