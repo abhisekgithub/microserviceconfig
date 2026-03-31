@@ -1,7 +1,7 @@
 build:
   version: "1.21"
 accounts:
-  message: "Hello wold accounts prod"
+  message: "Hello wold accounts post refresh prod"
   contacts:
     name: "Dev dEV"
     email: "dev@dev.com"
