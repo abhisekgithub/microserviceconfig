@@ -1,7 +1,7 @@
 build:
   version: "1.21"
 accounts:
-  message: "HELLO WORLD cards prod"
+  message: "Hi Hello world cards prod"
   contacts:
     name: "Dev dEV"
     email: "dev@dev.com"
