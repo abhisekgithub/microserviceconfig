@@ -1,7 +1,7 @@
 build:
   version: "1.21"
 accounts:
-  message: "Hello wold cards default"
+  message: "Hello world cards default"
   contacts:
     name: "Dev dEV"
     email: "dev@dev.com"
