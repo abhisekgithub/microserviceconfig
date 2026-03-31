@@ -1,7 +1,7 @@
 build:
   version: "1.21"
 accounts:
-  message: "Hello world accounts default"
+  message: "HELLO WORLD accounts default"
   contacts:
     name: "Dev dEV"
     email: "dev@dev.com"
