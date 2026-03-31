@@ -1,6 +1,6 @@
 build:
   version: "1.21"
-accounts:
+loans:
   message: "Hello wold loans qa"
   contacts:
     name: "Dev dEV"
