@@ -1,6 +1,6 @@
 build:
   version: "1.21"
-accounts:
+loans:
   message: "Hi Hello world loans prod"
   contacts:
     name: "Dev dEV"
