@@ -1,0 +1,10 @@
+build:
+  version: "1.21"
+accounts:
+  message: "Hello wold loans prod"
+  contacts:
+    name: "Dev dEV"
+    email: "dev@dev.com"
+  phones:
+    - "hhgghf9878"
+    - "vvjvjj"
