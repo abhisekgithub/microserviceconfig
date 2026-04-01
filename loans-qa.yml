@@ -1,7 +1,7 @@
 build:
   version: "1.21"
 loans:
-  message: "HELLO loans qa"
+  message: "Hello webhooook loans qa"
   contacts:
     name: "Dev dEV"
     email: "dev@dev.com"

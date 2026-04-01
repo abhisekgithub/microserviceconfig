@@ -1,7 +1,7 @@
 build:
   version: "1.21"
 cards:
-  message: "HELLO cards prod"
+  message: "Hello webhooook cards prod"
   contacts:
     name: "Dev dEV"
     email: "dev@dev.com"
