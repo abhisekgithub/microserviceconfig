@@ -1,7 +1,7 @@
 build:
   version: "1.21"
 accounts:
-  message: "Hello webhooook accounts prod"
+  message: "Hello webhook accounts prod"
   contacts:
     name: "Dev dEV"
     email: "dev@dev.com"

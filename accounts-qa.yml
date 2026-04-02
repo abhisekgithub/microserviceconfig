@@ -1,7 +1,7 @@
 build:
   version: "1.21"
 accounts:
-  message: "Hello webhooook accounts QA--"
+  message: "Hello webhook accounts QA--"
   contacts:
     name: "Dev dEV"
     email: "{cipher}e9990fb26f7b24fd9130b1886b39c7d24934682d6750c0ab49fd421a447d6c377f3e93f76e8e79c7569cbd058470f1cb"
